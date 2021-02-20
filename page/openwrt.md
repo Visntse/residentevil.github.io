@@ -21,7 +21,7 @@ sudo apt-get install gcc make perl
 再安装虚拟机增强功能后安装编译工具，`Termainal`中输入<br>
 ```
 sudo apt-get update
-sudo apt-get install libncurses-dev gawk python git
+sudo apt-get install gawk python git
 ```
 重启
 <hr>
@@ -68,11 +68,11 @@ make image \
 PROFILE=WNDR4300V1 \
 PACKAGES="-dropbear -dnsmasq -odhcpd-ipv6only \
 wget ca-bundle ca-certificates openssl-util \
-dnsmasq-full odhcpd kmod-nft-offload \
+dnsmasq-full odhcpd kmod-ipt-offload kmod-nft-offload \
 luci luci-i18n-base-zh-cn \
 miniupnpc luci-i18n-upnp-zh-cn luci-i18n-firewall-zh-cn \
 block-mount mount-utils \
-kmod-usb-storage kmod-usb-uhci kmod-usb-ohci kmod-usb3 kmod-fs-exfat kmod-fs-ntfs \
+kmod-usb-storage kmod-usb-uhci kmod-usb-ohci kmod-usb3 kmod-fs-exfat \
 transmission-cli-openssl transmission-daemon-openssl transmission-web luci-i18n-transmission-zh-cn \
 simple-adblock luci-i18n-simple-adblock-zh-cn"
 ```

@@ -18,7 +18,8 @@ layout: default
 sudo apt-get update
 sudo apt-get install gcc make perl
 ```
-再安装虚拟机增强功能后安装编译工具，`Termainal`中输入<br>
+重启再安装虚拟机增强功能<br>
+然后安装编译工具，`Termainal`中输入<br>
 ```
 sudo apt-get update
 sudo apt-get install gawk python git
@@ -30,7 +31,7 @@ sudo apt-get install gawk python git
 ```
 sudo adduser visntse vboxsf
 ```
-`visntse`替换为你的用户名，重启，`sf_`开头的目录为虚拟机与主机的共享目录
+`visntse`替换为你的用户名，重启后`sf_`开头的目录为虚拟机与主机的共享目录
 <hr>
 ### 安装编译工具<br>
 `ImageBuilder`拷贝至共享目录，`Termainal`中创建编译目录<br>

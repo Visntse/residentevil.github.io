@@ -16,7 +16,7 @@ layout: default
 先安装必要工具，`Termainal`中输入<br>
 ```
 sudo apt-get update
-sudo apt-get install gcc make perl
+sudo apt-get install gcc make perl open-vm-tools-desktop virtualbox-guest-dkms-hwe
 ```
 重启再安装虚拟机增强功能<br>
 然后安装编译工具，`Termainal`中输入<br>

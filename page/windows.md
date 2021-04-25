@@ -5,7 +5,7 @@ layout: default
 ### Windows<br>
 #### [ShadowSocks 4.4.0.0](/windows/ShadowSocks.rar)&nbsp;&nbsp;[`官方更新`](https://github.com/shadowsocks/shadowsocks-windows)
 <hr>
-#### [ShadowSocksR 4.9.2.18996](/windows/ShadowSocksR.rar)&nbsp;&nbsp;[`官方更新`](https://github.com/shadowsocksrr/shadowsocksr-csharp)
+#### [ShadowSocksR 4.9.2.17798](/windows/ShadowSocksR.rar)&nbsp;&nbsp;[`官方更新`](https://github.com/shadowsocksrr/shadowsocksr-csharp)
 <hr>
 #### [Aida64](/windows/KeyGenAida64.rar)
 <hr>

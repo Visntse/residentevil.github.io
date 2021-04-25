@@ -4,10 +4,10 @@ layout: default
 
 ### Build X.Emu Android Emulator<br>
 #### [VirtualBox](https://www.virtualbox.org/wiki/Downloads)<br>
-下载 6.1.18版
+下载 6.1.20 版
 <hr>
 #### [Ubuntu](http://releases.ubuntu.com/)<br>
-下载 64 位 20.04.2 版
+下载 64 位 21.04 版
 <hr>
 #### [AndroidStudio](https://developer.android.com/studio/index.html)<br>
 下载 64 位 Linux 版
@@ -19,7 +19,7 @@ layout: default
 先安装必要工具，`Termainal`中输入<br>
 ```
 sudo apt-get update
-sudo apt-get install gcc make perl open-vm-tools-desktop virtualbox-guest-dkms-hwe
+sudo apt-get install gcc make perl
 ```
 重启再安装虚拟机增强功能<br>
 然后安装编译工具，`Termainal`中输入<br>

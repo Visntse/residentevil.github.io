@@ -4,7 +4,7 @@ layout: default
 
 ### Development Unity3D Game From Wii’s Game Modle<br>
 #### [JavaJdk](http://www.oracle.com/technetwork/java/javase/downloads/index.html)<br>
-下载 JavaSe8U281
+下载 JavaSe8U291
 <hr>
 #### [AndroidStudio](https://developer.android.com/studio/index.html)<br>
 下载最新版并更新

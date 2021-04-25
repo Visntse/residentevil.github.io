@@ -36,6 +36,6 @@ layout: default
 <hr>
 #### [DnUnPsaToolkit 0.38B](/console/DnUnPsaToolKit.rar)&nbsp;&nbsp;[`0.40B`](/console/DnUnPsaToolKit040B.rar)
 <hr>
-#### [Noesis 444](/console/Noesis.rar)&nbsp;&nbsp;[`官方更新`](http://www.richwhitehouse.com/index.php?content=inc_res.php)
+#### [Noesis 4442](/console/Noesis.rar)&nbsp;&nbsp;[`官方更新`](http://www.richwhitehouse.com/index.php?content=inc_res.php)
 <hr>
 #### [BrawlBox 0.78HotFix1](/console/BrawlBox078HF1.rar)&nbsp;&nbsp;[`0.77`](/console/BrawlBox.rar)&nbsp;&nbsp;[`官方更新`](https://github.com/libertyernie/brawltools)

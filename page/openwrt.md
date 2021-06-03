@@ -4,7 +4,7 @@ layout: default
 
 ## Build Base On OpenWrt's Wndr4300 Firmware<br>
 ### [VirtualBox](https://www.virtualbox.org/wiki/Downloads)<br>
-下载 6.1.20 版
+下载 6.1.22 版
 <hr>
 ### [Ubuntu](http://releases.ubuntu.com/)<br>
 下载 64 位 21.04 版

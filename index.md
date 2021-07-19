@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Catholic Church<br><br>
+### [Catholic Church](/page/catholic_church.md)<br><br>
 ### Document<br>
 #### [Build Base On OpenWrt's Wndr4300 Firmware](/page/openwrt.md)<br>
 #### [Build X.Emu Android Emulator](/page/emulator.md)<br>
